@@ -34,14 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harishnandhan02&" alt="harishnandhan02" /></p>
 
-<!-- GitHub Stats Cards -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishnandhan02&show_icons=true&locale=en&layout=compact" alt="harishnandhan02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harishnandhan02&show_icons=true&locale=en" alt="harishnandhan02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harishnandhan02&" alt="harishnandhan02" /></p>
-
-<!-- Add more GitHub Stats Cards as needed -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username" alt="Wakatime Stats" /></p>
-
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=harishnandhan02" alt="GitHub Activity Graph" /></p>
