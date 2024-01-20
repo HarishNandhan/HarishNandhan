@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harish Nandhan</h1>
-<h3 align="center">Exploring the realms of data with passion and purpose 🚀 | Aspiring Data Scientist from Chennai,India</h3>
+<h3 align="center">Exploring the realms of data with passion and purpose 🚀 <br> Pursuing Bachelors in AI & ML at Anna University, Chennai 🎓. <br> Former Web Developer & Comparative Analysis Intern at Plumb5, Bangalore 🖥️ | 4 months of hands-on experience in the tech hub 🌐.</h3>
+<h4>Currently on the exciting journey of exploring the realms of AI, ML, Deep Learning, and Large Language Models. 🚀 🤖 As a dedicated data enthusiast, I thrive on diving deep into the world of algorithms, data structures, and cutting-edge technologies. My curiosity fuels my desire to understand and implement innovative solutions in the ever-evolving field of AI. <br>🎓 Looking forward to taking my expertise to the next level, I am gearing up to pursue a Masters in Data Science. My goal is to contribute to the advancement of intelligent systems and make a positive impact through data-driven insights.<br> 🌐 Feel free to explore my GitHub repositories where I share my journey, projects, and experiments in the fascinating world of AI and ML. Let's connect, collaborate, and build the future of intelligent technologies together! 🤝</h4>
+<img align="right" alt="coding" width="400" src=
+"https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishnandhan02&label=Profile%20views&color=0e75b6&style=flat" alt="harishnandhan02" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harishnandhan02" alt="harishnandhan02" /></a> </p>
-
-- 🌱 I’m currently learning **Flask,Pytorch,LLM**
 
 - Explore my journey end to end🌐✨ #DiscoverMyStory [https://linktr.ee/HarishNandhan?utm_source=linktree_admin_share](https://linktr.ee/HarishNandhan?utm_source=linktree_admin_share)
 
@@ -16,13 +15,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1X-_5mJAGpH4YuAAJQtHkgwOuC8AjfjBQ/view?usp=sharing](https://drive.google.com/file/d/1X-_5mJAGpH4YuAAJQtHkgwOuC8AjfjBQ/view?usp=sharing)
 
 - ⚡ Fun fact **I can't resist a good coding challenge, and my favorite coding companion is a cup of chai ☕👩‍💻 #CodeAndChai**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harish nandhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harish nandhan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/harish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="harish" height="30" width="40" /></a>
-<a href="https://kaggle.com/harish nandhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harish nandhan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@harishnandhan02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@harishnandhan02" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,5 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harishnandhan02&show_icons=true&locale=en" alt="harishnandhan02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harishnandhan02&" alt="harishnandhan02" /></p>
-
-
