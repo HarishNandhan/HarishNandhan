@@ -1,7 +1,7 @@
 ![logo](https://github.com/HarishNandhan/HarishNandhan/blob/main/Harish_Banner.png)
 
 <h1 align="center">Hi 👋, I'm Harish Nandhan</h1>
-<h3 align="center">Exploring the realms of data with passion and purpose 🚀 <br> Pursuing Bachelors in AI & ML at Anna University, Chennai 🎓. <br> Former Web Developer & Comparative Analysis Intern at Plumb5, Bangalore 🖥️ | 4 months of hands-on experience in the tech hub 🌐.</h3>
+<h3 align="center">Exploring the realms of data with passion and purpose 🚀 <br> Pursuing Masters in Data Science at University of Colorado Boulder <br> <br> Bachelors in AI & ML at Anna University, Chennai 🎓. <br> Former Web Developer & Comparative Analysis Intern at Plumb5, Bangalore 🖥️ | 5 months of hands-on experience in the tech hub 🌐.</h3>
 <h4>Currently on the exciting journey of exploring the realms of AI, ML, Deep Learning, and Large Language Models. 🚀 🤖 As a dedicated data enthusiast, I thrive on diving deep into the world of algorithms, data structures, and cutting-edge technologies. My curiosity fuels my desire to understand and implement innovative solutions in the ever-evolving field of AI. <br>🎓 Looking forward to taking my expertise to the next level, I am gearing up to pursue a Masters in Data Science. My goal is to contribute to the advancement of intelligent systems and make a positive impact through data-driven insights.<br> 🌐 Feel free to explore my GitHub repositories where I share my journey, projects, and experiments in the fascinating world of AI and ML. Let's connect, collaborate, and build the future of intelligent technologies together! 🤝</h4>
 <img align="right" alt="coding" width="400" src=
 "https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
