@@ -9,7 +9,7 @@ Hi, I'm Harish Nandhan!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Grad+Student;Data+Scientist;AI+Engineer;Constant+Learner&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="320" />
+<img align="left" src="https://github.com/HarishNandhan/HarishNandhan/blob/main/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6.gif" alt="Coding animation" width="320" />
 <hr>
 
 ```
