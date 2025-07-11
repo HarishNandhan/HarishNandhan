@@ -10,7 +10,7 @@ Hi, I'm Harish Nandhan!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Grad+Student;Data+Scientist;AI+Engineer;Constant+Learner&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/HarishNandhan/HarishNandhan/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="320" />
 <hr>
 
 ```
@@ -111,8 +111,10 @@ Hi, I'm Harish Nandhan!
 
 ### 👨🏽‍💻 Workspace
 <p>
-    <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
+    <a href="#"><img alt="ASUS Rog Zephyrus" src="https://img.shields.io/badge/ASUS%20Rog%20Zephyrus-000000?logo=asus&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="Nvidia RTX 3060" src="https://img.shields.io/badge/Nvidia%20RTX%203060-76B900?logo=nvidia&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge"></a>
 </p>
 
 
@@ -121,7 +123,6 @@ Hi, I'm Harish Nandhan!
 
 |                                                                     Harish Nandhan's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Harish Nandhan's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=HarishNandhan&theme=react-dark&hide_border=true&area=true) |
 | ![Harish Nandhan's github stats](https://github-readme-stats.vercel.app/api?username=HarishNandhan&show_icons=true&theme=algolia)              | 
 | ![Harish Nandhan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarishNandhan&theme=algolia)                    | 
     
